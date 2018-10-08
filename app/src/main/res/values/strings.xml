@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Informer</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="use_current_Location">Use Current Location</string>
+    <string name="current_location">Current  Location</string>
+
+</resources>
